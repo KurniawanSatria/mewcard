@@ -27,7 +27,7 @@
   "author": "lrmn7",
   "license": "MIT",
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.53",
+    "@napi-rs/canvas": "^0.1.81",
     "color-thief-node": "^1.0.4"
   },
   "devDependencies": {
